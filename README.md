@@ -60,4 +60,4 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Screenshot of a Search Result
 
-![Search Result](../book-search-engine/assets/screenshot.png)
+![Search Result](./assets/screenshot.png)
